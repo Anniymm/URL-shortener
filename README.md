@@ -6,6 +6,7 @@ A simple URL shortener built with Django that allows users to shorten long URLs 
 
 - Shorten long URLs
 - easy interface
+- test cases 
 
 ## Usage
 - Shorten a URL
@@ -56,6 +57,10 @@ python manage.py migrate
 ### 4. Access the Application::
 ```bash
 python manage.py runserver
+```
+### 5. For test use following command:
+```bash
+python manage.py test
 ```
 ## License
 
