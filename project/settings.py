@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-r-q3ow%me6i*yt#%uo3!$jg9bz2lr6lof2yfi6a+%6531g=2@*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.urlshortener.com']
 
 
 # Application definition
